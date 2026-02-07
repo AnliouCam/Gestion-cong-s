@@ -17,3 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+.plan.md
+.recapitulatif.md
+.etat_avancement.md
+.claude.md
